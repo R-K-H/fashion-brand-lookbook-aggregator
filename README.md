@@ -35,3 +35,10 @@ This seems like it might replace or supplement fashionmonitor.com which is $2,50
 - There are at least 81 listed notable fashion magazines (https://en.wikipedia.org/wiki/List_of_fashion_magazines)
 - At least 50 indie fashion magazines (https://www.thecut.com/2012/09/a-z-guide-to-indie-fashion-magazines.html)
 - Over 1,000 idependent fashion stylists who might use the service
+
+## Examples
+Hey I'd like to get the 
+Fall 2019 Eberjey lookbook
+Fall 2019 Dessous lookbook
+Fall 2019 Carine Gilson lookbook
+Fall 2019 Bordelle lookbook
