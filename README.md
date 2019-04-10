@@ -14,7 +14,9 @@ This seems like a lot of steps for something the brand and businesses that work 
 
 ## ToDo
 - Identify brands
-- Research contact methods
+- Identify components of a look (bags, shirt, shoes etc)
+- Research auto tagging (for example color, or use ML for does this image have a shirt in it)
+- Research contact methods for brands
 - Review online accessable content
 - Lookbook formatting
 - Research breaking up lookbooks (PDF scraping)
@@ -26,3 +28,5 @@ This seems like a lot of steps for something the brand and businesses that work 
 Login to a web application which would allow you to search for brands, shows (Fall 2019), lookbooks (if special), looks, color, style, gender, etc. You would be required to create a profile for the business which would inculde important information for brands as well have the ability for a business manager to assign users to the business (if large). This application is maintained by a team of people submitting requests or eventually all brands would simply login and upload their lookbooks and information as it's a tool for them as well. The system would organize and make these lookbooks available, as well we would break up the lookbooks into each individual look so that a person searching could search and create their own "scrapbook" of looks they think they might like. Then when they are done it would structure it as a request and then it would submit to each brand (or PR) as appropriate for the requested items / looks.
 
 Users would be brands, PRs or businesses (or business employees or representatives) each would have their own functions in the system a bit different, but with the end goal for the brand of promotion of the brand and for the businesses whatever their primary function is, for the example I've been thinking of it would be for photo shoots.
+
+This seems like it might replace or supplement fashionmonitor.com
