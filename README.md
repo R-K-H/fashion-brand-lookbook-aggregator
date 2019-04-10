@@ -29,4 +29,4 @@ Login to a web application which would allow you to search for brands, shows (Fa
 
 Users would be brands, PRs or businesses (or business employees or representatives) each would have their own functions in the system a bit different, but with the end goal for the brand of promotion of the brand and for the businesses whatever their primary function is, for the example I've been thinking of it would be for photo shoots.
 
-This seems like it might replace or supplement fashionmonitor.com which is $2,500 to $4,000 per year for a memebership.
+This seems like it might replace or supplement fashionmonitor.com which is $2,500 to $4,000 per year for a membership.
